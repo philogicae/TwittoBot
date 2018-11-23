@@ -1,0 +1,19 @@
+Compte-rendu final.docx
+Compte-rendu intermédiaire.docx
+TwittoBot/README.txt
+TwittoBot/corpus/sentiment_analysis/Emoji_Sentiment_Data/Emoji_Sentiment_Data_v1.0.csv
+TwittoBot/corpus/sentiment_analysis/Sentiment140/testdata.manual.2009.06.14.csv
+TwittoBot/corpus/sentiment_analysis/Sentiment140/training.1600000.processed.noemoticon.csv
+TwittoBot/corpus/sentiment_analysis/Emoji_Sentiment_Data/ESR_v1.0_format.txt
+TwittoBot/corpus/sentiment_analysis/SlangSD/README
+TwittoBot/corpus/sentiment_analysis/SlangSD/SlangSD.txt
+TwittoBot/corpus/text_generation/n-grams/2-grams.txt
+TwittoBot/corpus/text_generation/n-grams/3-grams.txt
+TwittoBot/corpus/text_generation/n-grams/4-grams.txt
+TwittoBot/corpus/text_generation/n-grams/biblio_2-grams.txt
+TwittoBot/corpus/text_generation/n-grams/biblio_3-grams.txt
+TwittoBot/corpus/text_generation/n-grams/biblio_4-grams.txt
+TwittoBot/corpus/text_generation/n-grams/biblio_context-grams.txt
+TwittoBot/corpus/text_generation/n-grams/biblio_lexique.txt
+TwittoBot/corpus/text_generation/n-grams/context-grams.txt
+TwittoBot/corpus/text_generation/n-grams/lexique.txt
