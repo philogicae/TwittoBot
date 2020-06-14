@@ -18,3 +18,7 @@ TwittoBot/corpus/text_generation/n-grams/biblio_context-grams.txt
 TwittoBot/corpus/text_generation/n-grams/biblio_lexique.txt
 TwittoBot/corpus/text_generation/n-grams/context-grams.txt
 TwittoBot/corpus/text_generation/n-grams/lexique.txt
+
+TwittoBot/__pycache__/
+
+*.pyc
